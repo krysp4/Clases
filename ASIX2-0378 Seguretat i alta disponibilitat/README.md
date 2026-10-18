@@ -11,8 +11,7 @@ Análisis de un dataset de 500 personas ficticias con datos sobre el uso del ord
 - `NoteBook/Proyecto_Analisis_Datos.ipynb`: notebook con la exploración, los gráficos y las preguntas.
 - `NoteBook/datos_ficticios_uso_ordenador_500_personas_ampliado.csv`: dataset.
 - `NoteBook/graficos/`: gráficos que genera el notebook (los usamos en el informe).
-- `Informe/`: informe en Word.
-
+- 
 ## Cómo ejecutarlo
 
 1. Instalar las librerías: `pip install pandas numpy matplotlib seaborn notebook`
