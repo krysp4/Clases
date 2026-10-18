@@ -1,0 +1,501 @@
+﻿ID,Nombre,Apellidos,Provincia,Horas_uso_ordenador_diarias,DNI_ficticio,Edad,Nivel_estudios,Genero,Situacion_laboral,Dispositivo_principal,Anios_experiencia_informatica,Nivel_competencia_digital,Horas_uso_internet_diarias,Uso_principal_ordenador,Formacion_ciberseguridad
+1,Jimena,Muñoz González,A Coruña,5.4,FICT-000001,71,ESO,Hombre,Jubilado/a,Sobremesa,48,Intermedio,5.7,Ocio,No
+2,Jimena,Santos Jiménez,Álava,7.5,FICT-000002,41,Máster/Doctorado,Hombre,Empleado/a,Portátil,27,Avanzado,6.7,Ocio,No
+3,Nicolás,Domínguez Hernández,Albacete,3.7,FICT-000003,48,FP Grado Superior,No especificado,Empleado/a,Portátil,32,Intermedio,4.5,Trabajo,No
+4,Sergio,Herrera Alonso,Alicante,2.3,FICT-000004,27,FP Grado Superior,Mujer,Empleado/a,Sobremesa,4,Básico,3.2,Trabajo,No
+5,Bruno,López Gil,Almería,5.3,FICT-000005,62,ESO,Mujer,Empleado/a,Portátil,12,Avanzado,4.5,Trabajo,No
+6,Lucía,Ortiz Vidal,Asturias,3.9,FICT-000006,66,FP Grado Medio,No especificado,Empleado/a,Portátil,26,Básico,4.5,Trabajo,Sí
+7,Inés,Ortega Hernández,Ávila,2.7,FICT-000007,25,Universidad,No especificado,Autónomo/a,Portátil,5,Avanzado,5.0,Ocio,Sí
+8,Javier,Molina Castro,Badajoz,2.4,FICT-000008,50,Bachillerato,Mujer,Empleado/a,Portátil,31,Intermedio,4.0,Trabajo,No
+9,Eva,Rubio Ortega,Barcelona,3.7,FICT-000009,47,ESO,No especificado,Empleado/a,Portátil,14,Intermedio,5.7,Trabajo,Sí
+10,Ana,Sanz Serrano,Burgos,3.6,FICT-000010,44,ESO,No especificado,Empleado/a,Portátil,21,Avanzado,5.1,Trabajo,Sí
+11,Martina,Romero Hernández,Cáceres,5.8,FICT-000011,59,ESO,Mujer,Empleado/a,Portátil,41,Intermedio,5.8,Trabajo,Sí
+12,Nerea,Rubio Marín,Cádiz,2.9,FICT-000012,54,Universidad,Hombre,Empleado/a,Sobremesa,8,Básico,3.3,Comunicación,Sí
+13,Emma,Díaz Ruiz,Cantabria,3.1,FICT-000013,33,FP Grado Medio,Hombre,Empleado/a,Portátil,10,Intermedio,3.6,Ocio,No
+14,Martina,Cortés Gómez,Castellón,3.1,FICT-000014,51,FP Grado Superior,Hombre,Empleado/a,Portátil,13,Intermedio,3.8,Comunicación,No
+15,Carmen,Navarro Gil,Ciudad Real,3.8,FICT-000015,78,FP Grado Superior,Mujer,Empleado/a,Portátil,53,Intermedio,4.5,Trabajo,No
+16,Eric,León Hernández,Córdoba,3.4,FICT-000016,48,FP Grado Medio,Hombre,Desempleado/a,Sobremesa,21,Básico,3.7,Estudios,No
+17,Eva,González Blanco,Cuenca,4.9,FICT-000017,64,FP Grado Superior,Mujer,Empleado/a,Sobremesa,17,Intermedio,5.5,Ocio,Sí
+18,Emma,Iglesias González,Girona,3.5,FICT-000018,35,Bachillerato,Hombre,Empleado/a,Sobremesa,22,Intermedio,4.3,Trabajo,Sí
+19,Natalia,Morales Alonso,Granada,3.0,FICT-000019,28,FP Grado Medio,Hombre,Empleado/a,Portátil,10,Avanzado,2.9,Trabajo,No
+20,Hugo,Ruiz Navarro,Guadalajara,2.2,FICT-000020,45,Universidad,Mujer,Empleado/a,Tableta,29,Intermedio,2.4,Trabajo,Sí
+21,Nicolás,García Gómez,Gipuzkoa,0.7,FICT-000021,42,FP Grado Medio,No especificado,Empleado/a,Sobremesa,8,Avanzado,2.0,Ocio,No
+22,David,Jiménez Ramos,Huelva,5.0,FICT-000022,72,FP Grado Superior,Mujer,Empleado/a,Portátil,18,Avanzado,2.9,Ocio,No
+23,Alejandro,Ruiz Pérez,Huesca,3.3,FICT-000023,61,Universidad,Hombre,Autónomo/a,Portátil,19,Básico,4.4,Comunicación,No
+24,Nicolás,Marín Álvarez,Illes Balears,5.0,FICT-000024,22,FP Grado Medio,Hombre,Empleado/a,Portátil,2,Básico,5.7,Trabajo,Sí
+25,Nicolás,Romero Martín,Jaén,5.9,FICT-000025,45,ESO,Mujer,Desempleado/a,Portátil,29,Avanzado,7.2,Ocio,No
+26,David,Márquez García,La Rioja,1.2,FICT-000026,76,ESO,Mujer,Jubilado/a,Portátil,24,Intermedio,1.4,Ocio,No
+27,Lara,Guerrero Cruz,Las Palmas,2.0,FICT-000027,77,Universidad,No especificado,Jubilado/a,Portátil,15,Básico,3.0,Comunicación,Sí
+28,Paula,Domínguez Pérez,León,0.7,FICT-000028,45,FP Grado Medio,Mujer,Empleado/a,Portátil,19,Avanzado,2.0,Trabajo,No
+29,Gabriel,Castro Navarro,Lleida,3.6,FICT-000029,68,Universidad,Hombre,Jubilado/a,Portátil,53,Intermedio,2.5,Ocio,No
+30,Jorge,Castro Álvarez,Lugo,6.2,FICT-000030,68,ESO,Hombre,Jubilado/a,Portátil,41,Avanzado,5.4,Comunicación,No
+31,Andrés,López Calvo,Madrid,6.5,FICT-000031,53,Bachillerato,No especificado,Empleado/a,Sobremesa,28,Básico,7.7,Trabajo,No
+32,Pablo,Blanco Cortés,Málaga,2.3,FICT-000032,25,FP Grado Medio,Hombre,Empleado/a,Portátil,4,Intermedio,3.8,Ocio,No
+33,Marta,Gil Suárez,Murcia,5.7,FICT-000033,26,FP Grado Medio,Hombre,Desempleado/a,Portátil,6,Avanzado,8.0,Ocio,No
+34,Javier,Vidal Ortiz,Navarra,5.9,FICT-000034,21,FP Grado Medio,Mujer,Empleado/a,Portátil,6,Intermedio,5.9,Trabajo,No
+35,Javier,Hernández Iglesias,Ourense,8.9,FICT-000035,40,FP Grado Medio,No especificado,Empleado/a,Portátil,7,Intermedio,7.4,Trabajo,Sí
+36,Inés,Fernández Cano,Palencia,6.1,FICT-000036,16,Bachillerato,Mujer,Estudiante,Portátil,1,Básico,7.6,Ocio,Sí
+37,Raúl,Jiménez Ortega,Pontevedra,3.0,FICT-000037,47,Bachillerato,Mujer,Empleado/a,Portátil,11,Intermedio,4.4,Trabajo,Sí
+38,Rocío,Morales Medina,Salamanca,8.7,FICT-000038,70,FP Grado Superior,No especificado,Jubilado/a,Portátil,34,Avanzado,10.4,Ocio,No
+39,Marcos,Sánchez Vidal,Santa Cruz de Tenerife,2.7,FICT-000039,46,Primaria,No especificado,Empleado/a,Sobremesa,18,Básico,2.3,Trabajo,No
+40,Alicia,Cortés Pérez,Segovia,0.8,FICT-000040,40,ESO,Mujer,Empleado/a,Portátil,8,Básico,0.6,Trabajo,Sí
+41,Eva,Fernández Vidal,Sevilla,4.8,FICT-000041,18,FP Grado Medio,No especificado,Estudiante,Sobremesa,3,Básico,7.1,Comunicación,No
+42,Nerea,Castro Muñoz,Soria,3.3,FICT-000042,41,FP Grado Superior,Hombre,Empleado/a,Sobremesa,22,Avanzado,4.2,Ocio,No
+43,Alba,Romero Morales,Tarragona,1.6,FICT-000043,48,FP Grado Superior,No especificado,Empleado/a,Tableta,9,Básico,3.3,Trabajo,Sí
+44,Nicolás,Alonso Gutiérrez,Teruel,0.9,FICT-000044,33,FP Grado Superior,Mujer,Empleado/a,Portátil,13,Básico,2.1,Trabajo,Sí
+45,Gabriel,Sanz Blanco,Toledo,4.0,FICT-000045,64,Universidad,Hombre,Empleado/a,Portátil,37,Básico,4.7,Ocio,No
+46,Julia,Rodríguez Prieto,Valencia,4.0,FICT-000046,67,Primaria,Hombre,Jubilado/a,Portátil,22,Avanzado,4.2,Trabajo,No
+47,Nicolás,Fernández López,Valladolid,6.1,FICT-000047,70,Bachillerato,Hombre,Jubilado/a,Portátil,32,Avanzado,6.2,Trabajo,Sí
+48,Eric,Hernández Gallego,Bizkaia,3.4,FICT-000048,58,FP Grado Medio,Mujer,Empleado/a,Portátil,15,Intermedio,3.9,Comunicación,No
+49,Noa,Rubio Blanco,Zamora,3.3,FICT-000049,24,Máster/Doctorado,No especificado,Desempleado/a,Portátil,11,Intermedio,3.9,Estudios,No
+50,Gabriel,Cortés Suárez,Zaragoza,5.8,FICT-000050,42,ESO,No especificado,Empleado/a,Portátil,13,Avanzado,8.2,Trabajo,No
+51,Víctor,Gil Herrera,A Coruña,5.2,FICT-000051,60,Universidad,Hombre,Empleado/a,Portátil,25,Intermedio,6.9,Estudios,Sí
+52,Eric,Herrera Ortiz,Álava,2.4,FICT-000052,69,FP Grado Medio,No especificado,Jubilado/a,Sobremesa,50,Intermedio,3.8,Ocio,Sí
+53,Gabriel,Cortés Martínez,Albacete,2.2,FICT-000053,31,Primaria,Mujer,Empleado/a,Portátil,4,Intermedio,3.3,Estudios,No
+54,Eric,Herrera Ortega,Alicante,3.1,FICT-000054,18,FP Grado Medio,Mujer,Estudiante,Portátil,4,Avanzado,4.8,Ocio,No
+55,Daniel,Méndez Domínguez,Almería,1.3,FICT-000055,42,Primaria,Hombre,Empleado/a,Portátil,6,Intermedio,2.0,Trabajo,No
+56,Rocío,Pérez Peña,Asturias,2.5,FICT-000056,17,Bachillerato,Hombre,Estudiante,Portátil,2,Básico,3.1,Ocio,No
+57,Iván,Cruz Garrido,Ávila,2.5,FICT-000057,25,FP Grado Medio,Hombre,Empleado/a,Portátil,7,Básico,2.7,Trabajo,Sí
+58,Marina,Méndez Moreno,Badajoz,2.9,FICT-000058,52,Primaria,Mujer,Empleado/a,Sobremesa,22,Básico,4.7,Estudios,No
+59,Ana,Muñoz Delgado,Barcelona,1.7,FICT-000059,52,ESO,Hombre,Empleado/a,Portátil,11,Básico,3.2,Trabajo,No
+60,Carmen,Cortés Márquez,Burgos,3.5,FICT-000060,73,FP Grado Superior,Mujer,Jubilado/a,Sobremesa,27,Avanzado,2.8,Ocio,No
+61,Valeria,Ortega González,Cáceres,7.9,FICT-000061,76,Bachillerato,Hombre,Jubilado/a,Sobremesa,35,Intermedio,5.8,Ocio,No
+62,Víctor,Sánchez García,Cádiz,5.7,FICT-000062,23,FP Grado Medio,Mujer,Estudiante,Portátil,6,Básico,4.6,Ocio,Sí
+63,Eric,Gutiérrez Méndez,Cantabria,6.4,FICT-000063,23,Universidad,Mujer,Estudiante,Portátil,2,Básico,5.6,Estudios,Sí
+64,Gabriel,Suárez Ortega,Castellón,7.3,FICT-000064,17,ESO,Hombre,Estudiante,Sobremesa,4,Intermedio,7.1,Estudios,No
+65,Rubén,Ruiz Garrido,Ciudad Real,2.5,FICT-000065,65,Bachillerato,No especificado,Empleado/a,Sobremesa,50,Intermedio,2.2,Ocio,Sí
+66,Adrián,Guerrero Torres,Córdoba,4.5,FICT-000066,62,ESO,No especificado,Estudiante,Portátil,39,Intermedio,4.4,Estudios,No
+67,Lucas,González Santos,Cuenca,5.3,FICT-000067,53,Bachillerato,Hombre,Empleado/a,Portátil,10,Intermedio,4.4,Trabajo,Sí
+68,Marcos,Cano Ramos,Girona,6.7,FICT-000068,67,Universidad,No especificado,Jubilado/a,Portátil,52,Avanzado,7.0,Comunicación,Sí
+69,Laura,Guerrero Gil,Granada,3.0,FICT-000069,75,FP Grado Medio,Mujer,Jubilado/a,Portátil,35,Básico,4.2,Ocio,Sí
+70,Jimena,Ramírez Castillo,Guadalajara,6.4,FICT-000070,22,FP Grado Medio,No especificado,Empleado/a,Sobremesa,6,Intermedio,7.9,Ocio,No
+71,Aitana,Vidal Ortiz,Gipuzkoa,5.3,FICT-000071,53,Sin estudios,No especificado,Empleado/a,Sobremesa,14,Intermedio,4.9,Ocio,No
+72,Candela,Romero Gil,Huelva,4.2,FICT-000072,29,ESO,Mujer,Empleado/a,Portátil,15,Básico,5.7,Comunicación,No
+73,Marta,Pérez Ramírez,Huesca,6.4,FICT-000073,71,Bachillerato,Mujer,Jubilado/a,Sobremesa,32,Avanzado,5.1,Comunicación,Sí
+74,Carla,Moreno Gallego,Illes Balears,5.1,FICT-000074,55,Universidad,No especificado,Empleado/a,Portátil,37,Intermedio,6.2,Comunicación,No
+75,Miguel,Vázquez López,Jaén,5.6,FICT-000075,59,ESO,Mujer,Empleado/a,Portátil,16,Avanzado,7.0,Ocio,No
+76,Jorge,Núñez Garrido,La Rioja,2.4,FICT-000076,42,Primaria,No especificado,Empleado/a,Sobremesa,18,Avanzado,3.5,Trabajo,Sí
+77,Ana,Marín Sanz,Las Palmas,3.2,FICT-000077,57,Universidad,Mujer,Desempleado/a,Portátil,41,Básico,2.3,Ocio,No
+78,Óscar,Calvo Ruiz,León,1.5,FICT-000078,76,FP Grado Superior,No especificado,Jubilado/a,Sobremesa,18,Básico,2.0,Trabajo,No
+79,Mario,Moreno Vidal,Lleida,0.9,FICT-000079,76,Bachillerato,No especificado,Jubilado/a,Sobremesa,20,Básico,1.3,Ocio,No
+80,Marina,Sánchez Gómez,Lugo,6.0,FICT-000080,20,Bachillerato,No especificado,Estudiante,Portátil,2,Básico,5.3,Comunicación,No
+81,Laura,Ramírez Méndez,Madrid,4.5,FICT-000081,52,FP Grado Superior,Hombre,Empleado/a,Portátil,22,Intermedio,4.4,Comunicación,No
+82,Paula,Iglesias Cano,Málaga,5.8,FICT-000082,78,Bachillerato,Hombre,Jubilado/a,Portátil,54,Intermedio,5.8,Ocio,No
+83,Lara,Santos López,Murcia,7.1,FICT-000083,33,Bachillerato,No especificado,Estudiante,Portátil,9,Intermedio,5.9,Comunicación,Sí
+84,Jorge,Gómez Gallego,Navarra,1.0,FICT-000084,70,Bachillerato,Mujer,Jubilado/a,Portátil,43,Avanzado,2.3,Comunicación,No
+85,Julia,Martín González,Ourense,4.7,FICT-000085,64,FP Grado Medio,Hombre,Empleado/a,Tableta,49,Intermedio,4.7,Ocio,No
+86,Samuel,Guerrero Jiménez,Palencia,4.1,FICT-000086,18,Bachillerato,Mujer,Estudiante,Portátil,3,Avanzado,6.7,Estudios,No
+87,Iván,Vidal Herrera,Pontevedra,6.1,FICT-000087,65,Bachillerato,Hombre,Autónomo/a,Portátil,43,Básico,6.3,Comunicación,No
+88,Eva,Guerrero Álvarez,Salamanca,0.5,FICT-000088,42,FP Grado Medio,No especificado,Empleado/a,Portátil,9,Avanzado,1.8,Trabajo,No
+89,Diego,Sánchez Herrera,Santa Cruz de Tenerife,1.3,FICT-000089,42,FP Grado Medio,No especificado,Desempleado/a,Portátil,7,Intermedio,2.2,Ocio,Sí
+90,Luis,Vidal León,Segovia,3.1,FICT-000090,62,Primaria,No especificado,Empleado/a,Sobremesa,31,Intermedio,3.4,Trabajo,No
+91,Iván,Díaz Castillo,Sevilla,4.4,FICT-000091,63,ESO,Hombre,Empleado/a,Portátil,24,Básico,4.3,Trabajo,Sí
+92,Elena,Ramírez Pérez,Soria,3.2,FICT-000092,40,ESO,Mujer,Empleado/a,Sobremesa,14,Intermedio,5.3,Ocio,Sí
+93,Hugo,Delgado Ramos,Tarragona,3.6,FICT-000093,17,ESO,Hombre,Estudiante,Sobremesa,1,Básico,4.1,Estudios,Sí
+94,Laura,Lozano Fernández,Teruel,4.9,FICT-000094,31,Primaria,Hombre,Empleado/a,Portátil,13,Intermedio,7.8,Trabajo,No
+95,Lucas,Cano Romero,Toledo,2.7,FICT-000095,39,ESO,Mujer,Estudiante,Portátil,24,Intermedio,3.9,Estudios,Sí
+96,Aitana,Hernández Rubio,Valencia,4.5,FICT-000096,78,FP Grado Superior,Mujer,Jubilado/a,Portátil,23,Intermedio,4.9,Comunicación,Sí
+97,Laura,Vidal Herrera,Valladolid,0.3,FICT-000097,78,FP Grado Superior,Hombre,Jubilado/a,Portátil,51,Intermedio,0.4,Comunicación,No
+98,Marta,Delgado Vázquez,Bizkaia,5.0,FICT-000098,44,Bachillerato,No especificado,Autónomo/a,Sobremesa,20,Avanzado,6.7,Trabajo,No
+99,Ana,Márquez Moreno,Zamora,6.8,FICT-000099,43,ESO,No especificado,Empleado/a,Sobremesa,26,Intermedio,7.3,Ocio,No
+100,Carla,Serrano Vidal,Zaragoza,1.0,FICT-000100,75,FP Grado Medio,Hombre,Jubilado/a,Portátil,22,Básico,1.0,Ocio,No
+101,Carla,Pérez Cortés,A Coruña,4.4,FICT-000101,49,FP Grado Medio,No especificado,Autónomo/a,Portátil,32,Avanzado,2.7,Ocio,No
+102,Nerea,Suárez Cruz,Álava,2.6,FICT-000102,76,FP Grado Superior,Mujer,Jubilado/a,Portátil,24,Intermedio,4.5,Trabajo,Sí
+103,Laura,González Molina,Albacete,3.3,FICT-000103,41,Universidad,Hombre,Empleado/a,Sobremesa,19,Intermedio,5.0,Comunicación,Sí
+104,Lucía,Cruz Méndez,Alicante,5.3,FICT-000104,58,Universidad,No especificado,Empleado/a,Portátil,15,Avanzado,6.6,Trabajo,No
+105,Ismael,Sánchez Delgado,Almería,5.5,FICT-000105,37,FP Grado Superior,No especificado,Desempleado/a,Portátil,8,Básico,5.0,Estudios,No
+106,Nicolás,Morales Santos,Asturias,4.4,FICT-000106,36,ESO,No especificado,Empleado/a,Portátil,20,Básico,7.1,Trabajo,No
+107,Adrián,Herrera Torres,Ávila,5.5,FICT-000107,41,Bachillerato,Mujer,Autónomo/a,Portátil,16,Avanzado,4.5,Comunicación,Sí
+108,Mario,Vázquez Méndez,Badajoz,1.8,FICT-000108,43,Bachillerato,No especificado,Desempleado/a,Portátil,10,Intermedio,1.2,Estudios,Sí
+109,Aitana,Castro Sánchez,Barcelona,1.9,FICT-000109,65,Universidad,Mujer,Desempleado/a,Portátil,28,Básico,3.3,Comunicación,No
+110,Ana,Jiménez Medina,Burgos,5.0,FICT-000110,25,Primaria,Mujer,Empleado/a,Portátil,6,Intermedio,5.1,Ocio,No
+111,Aitana,Garrido Núñez,Cáceres,4.9,FICT-000111,42,Universidad,Mujer,Desempleado/a,Portátil,21,Intermedio,4.8,Trabajo,No
+112,Ana,Calvo Gallego,Cádiz,5.0,FICT-000112,60,Primaria,Hombre,Empleado/a,Portátil,29,Avanzado,4.2,Estudios,No
+113,Aitana,Morales Molina,Cantabria,6.1,FICT-000113,41,FP Grado Superior,No especificado,Desempleado/a,Portátil,19,Intermedio,7.3,Comunicación,Sí
+114,Sofía,Morales Martín,Castellón,4.0,FICT-000114,24,FP Grado Medio,No especificado,Estudiante,Sobremesa,6,Básico,2.9,Comunicación,Sí
+115,Marta,Moreno Rodríguez,Ciudad Real,1.0,FICT-000115,68,FP Grado Superior,Mujer,Jubilado/a,Portátil,26,Intermedio,2.8,Ocio,No
+116,Ismael,Álvarez Guerrero,Córdoba,6.0,FICT-000116,49,FP Grado Superior,Hombre,Desempleado/a,Portátil,25,Intermedio,5.2,Estudios,No
+117,Irene,Hernández Santos,Cuenca,4.9,FICT-000117,51,Bachillerato,Hombre,Empleado/a,Tableta,35,Básico,7.5,Comunicación,No
+118,Daniel,Rodríguez Peña,Girona,6.5,FICT-000118,48,Universidad,Hombre,Desempleado/a,Sobremesa,17,Avanzado,9.1,Trabajo,Sí
+119,Nerea,Méndez Sánchez,Granada,3.3,FICT-000119,36,Universidad,Mujer,Empleado/a,Portátil,11,Intermedio,5.2,Ocio,No
+120,Daniel,Marín Navarro,Guadalajara,6.4,FICT-000120,23,Universidad,Mujer,Estudiante,Sobremesa,6,Básico,5.7,Comunicación,Sí
+121,Noa,Álvarez Iglesias,Gipuzkoa,3.0,FICT-000121,41,Primaria,No especificado,Autónomo/a,Portátil,13,Intermedio,4.2,Trabajo,No
+122,Daniel,Santos Suárez,Huelva,3.0,FICT-000122,17,ESO,Mujer,Estudiante,Portátil,4,Intermedio,3.5,Comunicación,No
+123,Alicia,Peña Santos,Huesca,1.7,FICT-000123,70,FP Grado Superior,Hombre,Jubilado/a,Portátil,16,Intermedio,3.2,Ocio,No
+124,Javier,Ramírez Pérez,Illes Balears,5.4,FICT-000124,58,Bachillerato,Mujer,Empleado/a,Portátil,32,Básico,5.7,Trabajo,Sí
+125,Paula,Delgado Jiménez,Jaén,4.2,FICT-000125,50,FP Grado Medio,Hombre,Empleado/a,Portátil,11,Intermedio,6.7,Trabajo,No
+126,Rubén,Morales Gil,La Rioja,3.7,FICT-000126,57,FP Grado Superior,Mujer,Autónomo/a,Sobremesa,23,Básico,4.1,Trabajo,No
+127,Bruno,Suárez Alonso,Las Palmas,1.8,FICT-000127,32,Universidad,No especificado,Empleado/a,Sobremesa,14,Intermedio,1.8,Trabajo,No
+128,Emma,Pérez Navarro,León,5.0,FICT-000128,19,Universidad,Hombre,Desempleado/a,Sobremesa,4,Básico,6.4,Comunicación,No
+129,Javier,Cruz Sanz,Lleida,6.1,FICT-000129,45,ESO,No especificado,Empleado/a,Tableta,10,Intermedio,6.2,Trabajo,Sí
+130,Nerea,Castro Méndez,Lugo,4.0,FICT-000130,31,Primaria,Mujer,Empleado/a,Portátil,13,Avanzado,5.4,Trabajo,No
+131,Claudia,Hernández Lozano,Madrid,3.6,FICT-000131,49,Bachillerato,Hombre,Empleado/a,Sobremesa,19,Intermedio,5.4,Trabajo,No
+132,Eric,Marín Ruiz,Málaga,3.3,FICT-000132,53,Bachillerato,No especificado,Empleado/a,Portátil,9,Intermedio,4.5,Estudios,No
+133,Natalia,Garrido Iglesias,Murcia,2.9,FICT-000133,66,Bachillerato,Mujer,Empleado/a,Portátil,50,Intermedio,4.2,Trabajo,Sí
+134,Lara,Navarro Jiménez,Navarra,6.0,FICT-000134,58,FP Grado Medio,Hombre,Autónomo/a,Portátil,43,Intermedio,3.5,Ocio,Sí
+135,Hugo,Martínez Prieto,Ourense,2.1,FICT-000135,73,FP Grado Medio,Hombre,Jubilado/a,Portátil,41,Básico,2.9,Ocio,Sí
+136,Diego,Blanco Peña,Palencia,3.3,FICT-000136,29,FP Grado Medio,Mujer,Empleado/a,Sobremesa,5,Intermedio,3.9,Ocio,Sí
+137,Daniel,Iglesias Serrano,Pontevedra,3.6,FICT-000137,38,Universidad,Hombre,Empleado/a,Sobremesa,22,Intermedio,5.7,Trabajo,Sí
+138,Inés,Serrano Cano,Salamanca,5.3,FICT-000138,77,FP Grado Medio,Mujer,Jubilado/a,Tableta,43,Avanzado,4.1,Ocio,No
+139,Andrés,Ortiz Cano,Santa Cruz de Tenerife,4.1,FICT-000139,61,ESO,Hombre,Empleado/a,Portátil,12,Avanzado,5.2,Comunicación,No
+140,Julia,Rubio Blanco,Segovia,4.1,FICT-000140,54,Bachillerato,No especificado,Empleado/a,Portátil,23,Básico,3.1,Trabajo,No
+141,Sofía,Rodríguez Delgado,Sevilla,3.1,FICT-000141,61,FP Grado Superior,Hombre,Empleado/a,Portátil,43,Básico,3.3,Trabajo,No
+142,Lara,Sánchez Ramos,Soria,2.8,FICT-000142,36,Sin estudios,No especificado,Empleado/a,Portátil,16,Básico,3.5,Trabajo,Sí
+143,Luis,Núñez López,Tarragona,2.6,FICT-000143,51,Bachillerato,Hombre,Autónomo/a,Portátil,23,Avanzado,3.7,Trabajo,Sí
+144,Emma,Ramírez Sánchez,Teruel,3.7,FICT-000144,63,Primaria,No especificado,Autónomo/a,Portátil,16,Avanzado,3.5,Trabajo,No
+145,Óscar,Ortega Jiménez,Toledo,0.3,FICT-000145,38,Universidad,No especificado,Autónomo/a,Portátil,10,Avanzado,2.1,Ocio,Sí
+146,Adrián,Medina Peña,Valencia,1.5,FICT-000146,51,Primaria,Mujer,Autónomo/a,Portátil,18,Básico,2.5,Ocio,No
+147,Sofía,Garrido Muñoz,Valladolid,2.2,FICT-000147,39,Universidad,Mujer,Empleado/a,Portátil,15,Intermedio,4.6,Trabajo,No
+148,Eric,Garrido Gallego,Bizkaia,3.9,FICT-000148,45,Universidad,No especificado,Desempleado/a,Sobremesa,11,Avanzado,4.1,Ocio,No
+149,Valeria,Gutiérrez Delgado,Zamora,0.3,FICT-000149,68,Primaria,Mujer,Jubilado/a,Portátil,51,Intermedio,2.1,Ocio,Sí
+150,Iván,Iglesias Gallego,Zaragoza,2.1,FICT-000150,42,FP Grado Superior,Mujer,Desempleado/a,Sobremesa,19,Básico,3.1,Comunicación,Sí
+151,Jimena,Álvarez Marín,A Coruña,1.7,FICT-000151,24,Bachillerato,Hombre,Empleado/a,Tableta,3,Avanzado,1.5,Trabajo,Sí
+152,Miguel,Prieto Morales,Álava,3.5,FICT-000152,52,ESO,Hombre,Autónomo/a,Sobremesa,35,Avanzado,4.3,Comunicación,Sí
+153,Hugo,Molina Cortés,Albacete,3.4,FICT-000153,18,FP Grado Medio,Hombre,Estudiante,Portátil,3,Avanzado,2.6,Estudios,No
+154,Marcos,Gutiérrez Gómez,Alicante,4.4,FICT-000154,60,FP Grado Superior,Hombre,Empleado/a,Portátil,18,Avanzado,7.3,Trabajo,No
+155,Valeria,Suárez López,Almería,3.8,FICT-000155,19,Bachillerato,Mujer,Estudiante,Portátil,6,Intermedio,5.8,Estudios,Sí
+156,Iván,Gutiérrez Ramos,Asturias,1.1,FICT-000156,21,FP Grado Superior,Hombre,Autónomo/a,Portátil,5,Intermedio,1.3,Ocio,Sí
+157,Javier,Márquez Muñoz,Ávila,9.1,FICT-000157,55,FP Grado Superior,No especificado,Desempleado/a,Portátil,16,Intermedio,11.0,Ocio,No
+158,Emma,Moreno Díaz,Badajoz,5.3,FICT-000158,55,Universidad,No especificado,Empleado/a,Portátil,15,Intermedio,6.0,Ocio,No
+159,Lucía,León Navarro,Barcelona,2.6,FICT-000159,72,Bachillerato,Mujer,Jubilado/a,Portátil,50,Intermedio,4.7,Ocio,Sí
+160,Sofía,Lozano González,Burgos,4.1,FICT-000160,50,Máster/Doctorado,No especificado,Desempleado/a,Portátil,26,Intermedio,3.4,Comunicación,Sí
+161,Nerea,García Álvarez,Cáceres,2.2,FICT-000161,50,Primaria,No especificado,Empleado/a,Portátil,25,Intermedio,2.5,Trabajo,No
+162,Natalia,Cruz Gutiérrez,Cádiz,2.1,FICT-000162,65,Bachillerato,Mujer,Empleado/a,Portátil,45,Avanzado,3.5,Trabajo,No
+163,Ana,Vázquez Martín,Cantabria,3.9,FICT-000163,67,FP Grado Superior,Hombre,Jubilado/a,Sobremesa,39,Básico,4.8,Ocio,No
+164,Nerea,Gil Guerrero,Castellón,3.3,FICT-000164,33,Primaria,Hombre,Empleado/a,Portátil,16,Intermedio,2.9,Trabajo,No
+165,Diego,González Gallego,Ciudad Real,3.3,FICT-000165,49,Bachillerato,Hombre,Empleado/a,Portátil,29,Básico,5.7,Ocio,No
+166,Claudia,Gallego Ruiz,Córdoba,0.3,FICT-000166,24,Universidad,Hombre,Estudiante,Sobremesa,5,Básico,1.8,Ocio,No
+167,Candela,León Gil,Cuenca,7.1,FICT-000167,52,FP Grado Superior,Mujer,Empleado/a,Portátil,33,Intermedio,7.5,Ocio,Sí
+168,Luis,Medina Méndez,Girona,2.4,FICT-000168,22,FP Grado Medio,No especificado,Empleado/a,Portátil,9,Básico,3.5,Ocio,No
+169,Raúl,Delgado Fernández,Granada,1.1,FICT-000169,64,ESO,Hombre,Empleado/a,Portátil,28,Avanzado,2.2,Trabajo,Sí
+170,Marina,Cortés Jiménez,Guadalajara,2.4,FICT-000170,42,ESO,Mujer,Autónomo/a,Portátil,7,Avanzado,3.5,Trabajo,No
+171,Iván,Delgado Guerrero,Gipuzkoa,6.0,FICT-000171,52,Universidad,No especificado,Empleado/a,Portátil,13,Básico,6.6,Ocio,No
+172,Noa,Prieto Vázquez,Huelva,3.9,FICT-000172,23,Bachillerato,No especificado,Empleado/a,Portátil,4,Básico,2.6,Trabajo,No
+173,Mario,Ramírez Ortiz,Huesca,2.0,FICT-000173,68,Bachillerato,Hombre,Jubilado/a,Portátil,37,Intermedio,3.6,Ocio,Sí
+174,Luis,Suárez Gómez,Illes Balears,5.1,FICT-000174,55,Universidad,Mujer,Estudiante,Tableta,37,Intermedio,7.2,Ocio,Sí
+175,Álvaro,Rubio Martín,Jaén,2.2,FICT-000175,37,Universidad,Hombre,Estudiante,Portátil,16,Intermedio,4.4,Ocio,No
+176,Samuel,Méndez Suárez,La Rioja,4.7,FICT-000176,62,Universidad,Mujer,Empleado/a,Portátil,19,Básico,5.8,Trabajo,No
+177,Lucía,Peña Castillo,Las Palmas,4.9,FICT-000177,44,FP Grado Medio,Hombre,Empleado/a,Portátil,26,Intermedio,5.1,Trabajo,Sí
+178,Natalia,Díaz Ramírez,León,4.4,FICT-000178,72,Bachillerato,No especificado,Jubilado/a,Portátil,23,Básico,4.3,Ocio,No
+179,Samuel,Serrano Álvarez,Lleida,7.4,FICT-000179,41,ESO,No especificado,Empleado/a,Sobremesa,26,Básico,6.8,Comunicación,No
+180,Lara,Sánchez Suárez,Lugo,5.3,FICT-000180,48,Primaria,No especificado,Empleado/a,Portátil,16,Intermedio,7.2,Trabajo,Sí
+181,Martina,Martín Álvarez,Madrid,0.3,FICT-000181,18,Universidad,Mujer,Empleado/a,Portátil,2,Intermedio,0.7,Estudios,Sí
+182,Sara,Romero Díaz,Málaga,3.7,FICT-000182,38,Bachillerato,Hombre,Desempleado/a,Portátil,25,Básico,3.2,Ocio,No
+183,Álvaro,Peña Vázquez,Murcia,3.6,FICT-000183,54,FP Grado Superior,No especificado,Empleado/a,Portátil,27,Básico,3.4,Trabajo,No
+184,Eric,Ramos Garrido,Navarra,7.1,FICT-000184,65,FP Grado Medio,Hombre,Empleado/a,Sobremesa,28,Avanzado,7.0,Trabajo,No
+185,Marcos,Peña Morales,Ourense,1.4,FICT-000185,18,Bachillerato,No especificado,Estudiante,Sobremesa,5,Intermedio,2.9,Ocio,Sí
+186,Vega,Sanz Gómez,Palencia,5.6,FICT-000186,27,Universidad,Hombre,Empleado/a,Portátil,12,Intermedio,5.5,Comunicación,No
+187,Pablo,Marín García,Pontevedra,2.3,FICT-000187,58,FP Grado Superior,Hombre,Empleado/a,Sobremesa,26,Intermedio,4.3,Estudios,Sí
+188,Nerea,Ramos Jiménez,Salamanca,3.6,FICT-000188,49,Bachillerato,Hombre,Empleado/a,Sobremesa,34,Intermedio,4.2,Ocio,Sí
+189,Víctor,Rubio Morales,Santa Cruz de Tenerife,4.2,FICT-000189,27,ESO,No especificado,Estudiante,Portátil,10,Avanzado,3.3,Trabajo,No
+190,Lara,Torres Serrano,Segovia,5.2,FICT-000190,36,Bachillerato,Mujer,Empleado/a,Sobremesa,16,Básico,7.4,Trabajo,No
+191,Carla,Ortega Vidal,Sevilla,4.5,FICT-000191,35,Bachillerato,Hombre,Empleado/a,Portátil,21,Básico,6.2,Trabajo,No
+192,Mateo,Rubio Sánchez,Soria,3.7,FICT-000192,58,Universidad,Mujer,Desempleado/a,Tableta,17,Intermedio,4.7,Ocio,Sí
+193,Alejandro,Castro Ramírez,Tarragona,7.0,FICT-000193,40,ESO,No especificado,Estudiante,Portátil,8,Básico,9.1,Comunicación,No
+194,Rocío,González Ruiz,Teruel,4.0,FICT-000194,46,ESO,Mujer,Empleado/a,Portátil,13,Intermedio,3.8,Ocio,No
+195,Javier,Martínez Cano,Toledo,2.3,FICT-000195,25,Bachillerato,Hombre,Desempleado/a,Sobremesa,4,Avanzado,2.8,Ocio,Sí
+196,Carmen,Ramírez Álvarez,Valencia,1.0,FICT-000196,16,ESO,Hombre,Desempleado/a,Sobremesa,1,Básico,2.5,Trabajo,No
+197,Víctor,Morales Serrano,Valladolid,3.5,FICT-000197,54,Universidad,Hombre,Empleado/a,Portátil,36,Básico,4.4,Ocio,Sí
+198,Lucas,Marín Herrera,Bizkaia,5.8,FICT-000198,28,Sin estudios,Hombre,Empleado/a,Portátil,8,Intermedio,6.7,Comunicación,Sí
+199,Jorge,Castillo Garrido,Zamora,9.0,FICT-000199,72,FP Grado Medio,Mujer,Jubilado/a,Sobremesa,34,Intermedio,9.2,Ocio,No
+200,Paula,Gutiérrez Martín,Zaragoza,5.4,FICT-000200,57,Primaria,Mujer,Desempleado/a,Portátil,24,Avanzado,6.2,Ocio,No
+201,Bruno,Herrera Morales,A Coruña,2.2,FICT-000201,63,Bachillerato,No especificado,Empleado/a,Portátil,35,Intermedio,2.1,Comunicación,No
+202,Paula,Vidal Hernández,Álava,5.1,FICT-000202,36,Universidad,Hombre,Empleado/a,Portátil,14,Básico,3.6,Ocio,Sí
+203,Andrés,Cano Morales,Albacete,2.1,FICT-000203,18,Universidad,No especificado,Estudiante,Portátil,2,Básico,2.2,Comunicación,Sí
+204,Claudia,Medina Iglesias,Alicante,2.0,FICT-000204,44,Universidad,Hombre,Autónomo/a,Sobremesa,26,Intermedio,2.3,Comunicación,No
+205,Diego,Sánchez Gallego,Almería,1.7,FICT-000205,49,Bachillerato,No especificado,Empleado/a,Sobremesa,18,Avanzado,2.8,Trabajo,No
+206,Mateo,Ruiz Ortega,Asturias,3.5,FICT-000206,22,FP Grado Medio,No especificado,Estudiante,Portátil,9,Avanzado,3.4,Comunicación,No
+207,Ana,Calvo Cano,Ávila,2.1,FICT-000207,54,Bachillerato,Hombre,Autónomo/a,Portátil,12,Intermedio,3.4,Trabajo,Sí
+208,Óscar,Garrido Ramírez,Badajoz,3.2,FICT-000208,72,Universidad,Mujer,Jubilado/a,Portátil,22,Avanzado,3.4,Comunicación,No
+209,Noa,Jiménez Muñoz,Barcelona,6.8,FICT-000209,39,Primaria,Mujer,Empleado/a,Sobremesa,12,Avanzado,7.3,Ocio,No
+210,Álvaro,Blanco Núñez,Burgos,5.0,FICT-000210,78,FP Grado Medio,No especificado,Jubilado/a,Portátil,40,Básico,5.6,Ocio,No
+211,Lara,Garrido Ramos,Cáceres,1.3,FICT-000211,50,FP Grado Superior,Mujer,Empleado/a,Sobremesa,36,Intermedio,2.5,Ocio,Sí
+212,Pablo,Fernández Núñez,Cádiz,3.5,FICT-000212,74,Universidad,Mujer,Jubilado/a,Sobremesa,51,Básico,5.0,Estudios,No
+213,Irene,Torres González,Cantabria,1.5,FICT-000213,42,Bachillerato,Hombre,Empleado/a,Portátil,28,Básico,1.6,Trabajo,No
+214,Eva,Herrera Peña,Castellón,3.3,FICT-000214,63,FP Grado Superior,Mujer,Autónomo/a,Portátil,16,Intermedio,5.5,Trabajo,No
+215,Marina,Marín Vázquez,Ciudad Real,6.4,FICT-000215,36,FP Grado Superior,No especificado,Empleado/a,Portátil,23,Intermedio,8.9,Trabajo,No
+216,Alejandro,Molina Cruz,Córdoba,2.9,FICT-000216,74,FP Grado Superior,Mujer,Jubilado/a,Sobremesa,13,Básico,3.9,Ocio,No
+217,Marina,Molina Ramírez,Cuenca,6.1,FICT-000217,20,FP Grado Superior,Hombre,Empleado/a,Portátil,2,Intermedio,7.5,Trabajo,Sí
+218,Álvaro,Castro Ramírez,Girona,5.3,FICT-000218,29,Sin estudios,Mujer,Empleado/a,Sobremesa,4,Avanzado,5.2,Trabajo,No
+219,Martina,León Pérez,Granada,4.1,FICT-000219,71,FP Grado Medio,Mujer,Jubilado/a,Portátil,23,Intermedio,5.5,Comunicación,No
+220,Iván,Sanz Romero,Guadalajara,4.6,FICT-000220,66,Bachillerato,No especificado,Empleado/a,Sobremesa,42,Básico,5.5,Trabajo,No
+221,Lara,Blanco Rodríguez,Gipuzkoa,5.0,FICT-000221,33,Primaria,No especificado,Empleado/a,Portátil,13,Avanzado,4.1,Trabajo,No
+222,Nicolás,Herrera Calvo,Huelva,2.7,FICT-000222,55,Bachillerato,Mujer,Empleado/a,Tableta,23,Intermedio,3.1,Ocio,No
+223,Luis,Ortega Ortiz,Huesca,5.9,FICT-000223,44,Máster/Doctorado,No especificado,Autónomo/a,Portátil,16,Intermedio,6.4,Ocio,No
+224,Bruno,Navarro León,Illes Balears,6.6,FICT-000224,46,Primaria,Mujer,Empleado/a,Sobremesa,17,Avanzado,6.5,Trabajo,Sí
+225,Diego,López Santos,Jaén,1.8,FICT-000225,74,Máster/Doctorado,No especificado,Jubilado/a,Sobremesa,53,Intermedio,2.3,Ocio,Sí
+226,Elena,Ruiz Blanco,La Rioja,2.9,FICT-000226,46,ESO,Mujer,Desempleado/a,Portátil,22,Intermedio,4.0,Estudios,No
+227,Bruno,Jiménez Herrera,Las Palmas,3.0,FICT-000227,43,Bachillerato,Mujer,Empleado/a,Portátil,8,Básico,3.2,Trabajo,Sí
+228,Daniel,Ramos Cano,León,3.6,FICT-000228,40,ESO,Mujer,Estudiante,Portátil,27,Intermedio,5.3,Estudios,Sí
+229,Lara,Méndez Navarro,Lleida,2.3,FICT-000229,60,FP Grado Medio,Mujer,Empleado/a,Sobremesa,40,Básico,3.5,Trabajo,Sí
+230,Jorge,Martínez Díaz,Lugo,3.5,FICT-000230,53,Universidad,No especificado,Autónomo/a,Sobremesa,16,Intermedio,3.7,Comunicación,Sí
+231,Samuel,Molina Alonso,Madrid,4.9,FICT-000231,63,Sin estudios,Hombre,Empleado/a,Portátil,35,Intermedio,5.7,Comunicación,No
+232,Lara,Calvo Iglesias,Málaga,7.3,FICT-000232,46,Bachillerato,No especificado,Empleado/a,Portátil,15,Básico,9.0,Ocio,Sí
+233,Sara,Díaz Cortés,Murcia,3.0,FICT-000233,71,Universidad,No especificado,Jubilado/a,Sobremesa,16,Intermedio,4.5,Ocio,Sí
+234,Diego,Domínguez Rodríguez,Navarra,3.4,FICT-000234,32,ESO,Mujer,Empleado/a,Portátil,15,Básico,5.3,Comunicación,Sí
+235,Claudia,Sánchez Ramírez,Ourense,2.4,FICT-000235,52,FP Grado Medio,No especificado,Empleado/a,Sobremesa,28,Básico,2.9,Trabajo,Sí
+236,Rubén,Peña Delgado,Palencia,7.6,FICT-000236,17,FP Grado Medio,No especificado,Estudiante,Sobremesa,4,Avanzado,4.9,Ocio,No
+237,Candela,Gallego Suárez,Pontevedra,4.6,FICT-000237,39,Bachillerato,Mujer,Desempleado/a,Sobremesa,9,Básico,6.1,Comunicación,No
+238,Ana,Cano Peña,Salamanca,6.4,FICT-000238,62,FP Grado Superior,Hombre,Autónomo/a,Sobremesa,16,Avanzado,7.2,Trabajo,No
+239,Paula,Calvo Navarro,Santa Cruz de Tenerife,5.3,FICT-000239,76,FP Grado Medio,No especificado,Jubilado/a,Portátil,47,Avanzado,4.9,Comunicación,Sí
+240,Ana,Gil Iglesias,Segovia,3.9,FICT-000240,58,Universidad,No especificado,Empleado/a,Sobremesa,21,Avanzado,4.8,Ocio,No
+241,Adrián,Ruiz Muñoz,Sevilla,6.6,FICT-000241,59,Universidad,Mujer,Desempleado/a,Portátil,27,Intermedio,6.1,Comunicación,Sí
+242,Raúl,Méndez Domínguez,Soria,2.9,FICT-000242,73,FP Grado Medio,Mujer,Jubilado/a,Portátil,16,Intermedio,3.2,Trabajo,Sí
+243,Marta,Molina Calvo,Tarragona,0.3,FICT-000243,73,Universidad,Hombre,Jubilado/a,Portátil,40,Básico,0.9,Ocio,No
+244,Rocío,Gómez Gallego,Teruel,4.7,FICT-000244,61,Bachillerato,No especificado,Empleado/a,Sobremesa,30,Básico,4.6,Trabajo,Sí
+245,Marta,Álvarez Gutiérrez,Toledo,3.4,FICT-000245,72,Universidad,No especificado,Jubilado/a,Portátil,31,Intermedio,3.1,Comunicación,No
+246,Valeria,Ortega Castillo,Valencia,0.3,FICT-000246,43,Universidad,No especificado,Desempleado/a,Portátil,11,Intermedio,1.5,Ocio,No
+247,Adrián,Delgado Serrano,Valladolid,2.6,FICT-000247,57,FP Grado Superior,Mujer,Empleado/a,Portátil,36,Avanzado,4.0,Trabajo,No
+248,Adrián,Álvarez Gallego,Bizkaia,0.3,FICT-000248,66,Primaria,No especificado,Autónomo/a,Tableta,31,Intermedio,1.9,Ocio,Sí
+249,Marta,Vidal Herrera,Zamora,5.1,FICT-000249,16,ESO,Mujer,Estudiante,Sobremesa,3,Intermedio,4.8,Ocio,No
+250,Eva,Pérez Domínguez,Zaragoza,4.4,FICT-000250,38,Universidad,No especificado,Empleado/a,Portátil,12,Intermedio,5.4,Trabajo,Sí
+251,Julia,Alonso Rodríguez,A Coruña,1.6,FICT-000251,45,FP Grado Medio,Hombre,Empleado/a,Portátil,16,Básico,2.5,Trabajo,No
+252,Óscar,Martín Blanco,Álava,0.3,FICT-000252,67,FP Grado Medio,Mujer,Jubilado/a,Portátil,12,Intermedio,1.1,Ocio,No
+253,Eva,Suárez Díaz,Albacete,3.0,FICT-000253,43,FP Grado Superior,No especificado,Desempleado/a,Portátil,9,Intermedio,2.4,Comunicación,No
+254,Alba,Romero Suárez,Alicante,4.6,FICT-000254,26,Primaria,Hombre,Empleado/a,Sobremesa,13,Básico,5.2,Ocio,No
+255,Lucía,Medina Santos,Almería,7.3,FICT-000255,62,FP Grado Medio,No especificado,Empleado/a,Portátil,14,Avanzado,7.8,Ocio,No
+256,Gabriel,Molina Ramírez,Asturias,6.0,FICT-000256,53,Universidad,Hombre,Empleado/a,Sobremesa,38,Intermedio,5.7,Ocio,No
+257,Jorge,Suárez Delgado,Ávila,8.5,FICT-000257,27,Primaria,No especificado,Empleado/a,Portátil,4,Básico,8.2,Trabajo,Sí
+258,Mateo,Rubio Morales,Badajoz,4.2,FICT-000258,44,Universidad,Mujer,Desempleado/a,Sobremesa,17,Básico,4.7,Comunicación,Sí
+259,Hugo,Prieto Torres,Barcelona,5.7,FICT-000259,32,Bachillerato,Hombre,Empleado/a,Sobremesa,9,Intermedio,5.6,Comunicación,Sí
+260,Pablo,Iglesias Romero,Burgos,0.8,FICT-000260,65,FP Grado Medio,Mujer,Desempleado/a,Sobremesa,28,Básico,2.3,Ocio,No
+261,Paula,Ruiz Gutiérrez,Cáceres,6.2,FICT-000261,18,Bachillerato,No especificado,Estudiante,Sobremesa,5,Básico,6.5,Estudios,No
+262,Adrián,Ruiz Navarro,Cádiz,2.4,FICT-000262,73,FP Grado Medio,Mujer,Jubilado/a,Portátil,56,Básico,2.2,Ocio,Sí
+263,Gabriel,Moreno Muñoz,Cantabria,7.4,FICT-000263,52,FP Grado Medio,No especificado,Empleado/a,Portátil,17,Avanzado,9.2,Comunicación,Sí
+264,Alicia,Garrido Romero,Castellón,3.9,FICT-000264,75,Universidad,No especificado,Empleado/a,Sobremesa,19,Intermedio,4.4,Ocio,Sí
+265,Ismael,Delgado Cruz,Ciudad Real,7.7,FICT-000265,44,ESO,Mujer,Empleado/a,Sobremesa,11,Avanzado,7.2,Ocio,No
+266,Natalia,Sanz Medina,Córdoba,5.1,FICT-000266,36,ESO,Hombre,Empleado/a,Sobremesa,12,Intermedio,7.1,Ocio,No
+267,Marta,Vázquez Ortiz,Cuenca,2.9,FICT-000267,33,Primaria,Hombre,Empleado/a,Sobremesa,12,Básico,5.1,Trabajo,Sí
+268,Elena,Moreno Martín,Girona,5.8,FICT-000268,52,Primaria,Hombre,Empleado/a,Portátil,10,Intermedio,9.0,Trabajo,No
+269,Sergio,Muñoz Alonso,Granada,6.5,FICT-000269,22,Bachillerato,No especificado,Estudiante,Sobremesa,2,Básico,5.0,Estudios,No
+270,Alejandro,Muñoz Cruz,Guadalajara,2.9,FICT-000270,59,Universidad,No especificado,Empleado/a,Portátil,19,Intermedio,3.9,Comunicación,Sí
+271,Ismael,Vidal Marín,Gipuzkoa,4.9,FICT-000271,52,Universidad,No especificado,Empleado/a,Portátil,17,Intermedio,4.9,Trabajo,Sí
+272,Carla,Vidal Peña,Huelva,1.6,FICT-000272,67,ESO,Hombre,Jubilado/a,Portátil,50,Intermedio,1.4,Comunicación,No
+273,Natalia,Fernández Hernández,Huesca,6.5,FICT-000273,19,Bachillerato,No especificado,Estudiante,Portátil,4,Básico,7.6,Ocio,No
+274,Lucas,Márquez Marín,Illes Balears,3.2,FICT-000274,37,Universidad,No especificado,Empleado/a,Portátil,23,Intermedio,4.1,Trabajo,Sí
+275,Noa,Moreno Jiménez,Jaén,8.4,FICT-000275,32,Universidad,Hombre,Desempleado/a,Tableta,17,Básico,7.7,Comunicación,Sí
+276,Sofía,Morales León,La Rioja,2.1,FICT-000276,37,FP Grado Medio,Mujer,Empleado/a,Sobremesa,13,Avanzado,2.9,Trabajo,No
+277,Julia,Márquez Morales,Las Palmas,2.7,FICT-000277,27,Universidad,No especificado,Empleado/a,Sobremesa,4,Intermedio,4.3,Trabajo,No
+278,Carmen,Gómez González,León,4.3,FICT-000278,44,FP Grado Medio,Mujer,Empleado/a,Portátil,13,Intermedio,5.5,Trabajo,Sí
+279,Iván,Martínez Prieto,Lleida,6.3,FICT-000279,18,FP Grado Medio,No especificado,Estudiante,Tableta,5,Intermedio,5.5,Ocio,Sí
+280,Jimena,Sanz Gutiérrez,Lugo,5.7,FICT-000280,41,Bachillerato,Hombre,Autónomo/a,Portátil,24,Intermedio,6.9,Comunicación,Sí
+281,Marta,Moreno Medina,Madrid,3.8,FICT-000281,19,FP Grado Superior,Mujer,Estudiante,Sobremesa,4,Intermedio,5.6,Trabajo,Sí
+282,Bruno,Ortega Márquez,Málaga,3.6,FICT-000282,33,FP Grado Superior,Mujer,Empleado/a,Sobremesa,12,Intermedio,4.2,Trabajo,No
+283,Marcos,Lozano Marín,Murcia,6.0,FICT-000283,66,ESO,No especificado,Empleado/a,Portátil,11,Intermedio,7.9,Ocio,No
+284,Mario,Marín Gómez,Navarra,4.1,FICT-000284,66,Primaria,Mujer,Empleado/a,Portátil,12,Básico,5.1,Ocio,No
+285,Claudia,Díaz León,Ourense,4.7,FICT-000285,48,FP Grado Superior,Hombre,Empleado/a,Portátil,28,Básico,5.6,Ocio,Sí
+286,Lucas,Vázquez Cruz,Palencia,6.7,FICT-000286,35,Primaria,No especificado,Empleado/a,Portátil,10,Básico,4.3,Trabajo,Sí
+287,Nerea,Lozano Molina,Pontevedra,10.2,FICT-000287,67,FP Grado Superior,Mujer,Empleado/a,Tableta,26,Intermedio,9.5,Trabajo,No
+288,David,Marín Gómez,Salamanca,2.2,FICT-000288,55,FP Grado Superior,Hombre,Empleado/a,Sobremesa,13,Básico,2.8,Trabajo,No
+289,Álvaro,Herrera Guerrero,Santa Cruz de Tenerife,2.7,FICT-000289,54,Primaria,Hombre,Empleado/a,Portátil,17,Avanzado,3.2,Trabajo,Sí
+290,Ana,Blanco Fernández,Segovia,6.1,FICT-000290,66,FP Grado Medio,Mujer,Empleado/a,Portátil,13,Intermedio,6.7,Trabajo,Sí
+291,Paula,Rodríguez Garrido,Sevilla,0.3,FICT-000291,51,ESO,Hombre,Estudiante,Sobremesa,31,Avanzado,1.4,Estudios,No
+292,Marina,Romero Alonso,Soria,2.7,FICT-000292,27,ESO,No especificado,Empleado/a,Portátil,10,Intermedio,2.1,Trabajo,No
+293,Aitana,Romero Fernández,Tarragona,4.6,FICT-000293,47,FP Grado Superior,No especificado,Autónomo/a,Portátil,9,Intermedio,4.0,Comunicación,Sí
+294,Carmen,León Cano,Teruel,3.2,FICT-000294,47,Primaria,No especificado,Empleado/a,Sobremesa,31,Básico,4.1,Trabajo,Sí
+295,Rocío,Sánchez Torres,Toledo,6.5,FICT-000295,25,FP Grado Medio,No especificado,Empleado/a,Sobremesa,5,Básico,7.1,Trabajo,No
+296,Nerea,Díaz León,Valencia,5.3,FICT-000296,62,ESO,Mujer,Empleado/a,Sobremesa,29,Básico,5.6,Ocio,Sí
+297,Lucas,Ramírez Vázquez,Valladolid,2.6,FICT-000297,29,Bachillerato,No especificado,Empleado/a,Sobremesa,16,Básico,3.0,Trabajo,No
+298,Irene,Martínez León,Bizkaia,7.0,FICT-000298,45,Universidad,Mujer,Autónomo/a,Sobremesa,18,Intermedio,8.6,Trabajo,Sí
+299,Gabriel,García López,Zamora,1.7,FICT-000299,60,FP Grado Medio,No especificado,Empleado/a,Sobremesa,34,Avanzado,2.0,Ocio,No
+300,Daniel,Alonso Molina,Zaragoza,2.0,FICT-000300,77,FP Grado Superior,Mujer,Empleado/a,Portátil,50,Básico,1.6,Estudios,Sí
+301,Carla,Ruiz Moreno,A Coruña,5.4,FICT-000301,50,Universidad,Hombre,Desempleado/a,Portátil,35,Intermedio,6.3,Ocio,No
+302,Mateo,Blanco Cruz,Álava,1.9,FICT-000302,60,Universidad,No especificado,Empleado/a,Portátil,41,Intermedio,4.0,Trabajo,Sí
+303,Álvaro,Ortiz Morales,Albacete,2.3,FICT-000303,40,FP Grado Superior,No especificado,Empleado/a,Portátil,24,Avanzado,2.1,Comunicación,No
+304,Samuel,Díaz Castillo,Alicante,2.8,FICT-000304,20,Bachillerato,Hombre,Estudiante,Portátil,2,Básico,3.7,Comunicación,No
+305,Luis,Romero Cruz,Almería,2.9,FICT-000305,41,Universidad,Mujer,Empleado/a,Sobremesa,26,Avanzado,1.8,Trabajo,No
+306,Lucas,Hernández Vázquez,Asturias,7.7,FICT-000306,23,Bachillerato,No especificado,Estudiante,Portátil,10,Básico,8.1,Estudios,Sí
+307,Jimena,Vidal Lozano,Ávila,4.6,FICT-000307,77,Bachillerato,No especificado,Jubilado/a,Portátil,54,Intermedio,3.2,Comunicación,Sí
+308,Inés,Cruz Prieto,Badajoz,3.6,FICT-000308,71,Primaria,Mujer,Jubilado/a,Portátil,55,Básico,4.5,Estudios,Sí
+309,Lucía,López Pérez,Barcelona,4.0,FICT-000309,54,FP Grado Medio,Hombre,Empleado/a,Portátil,33,Intermedio,4.2,Trabajo,No
+310,Claudia,Molina Sánchez,Burgos,4.2,FICT-000310,38,Bachillerato,Mujer,Desempleado/a,Portátil,19,Intermedio,5.3,Ocio,No
+311,Jorge,Cano Navarro,Cáceres,5.4,FICT-000311,76,Universidad,No especificado,Jubilado/a,Portátil,42,Intermedio,4.6,Ocio,No
+312,David,Pérez Núñez,Cádiz,3.5,FICT-000312,32,Bachillerato,Hombre,Empleado/a,Portátil,7,Básico,4.0,Estudios,Sí
+313,Paula,Núñez León,Cantabria,4.4,FICT-000313,27,FP Grado Superior,No especificado,Autónomo/a,Sobremesa,12,Básico,6.5,Comunicación,No
+314,Víctor,Prieto Medina,Castellón,5.0,FICT-000314,33,ESO,Mujer,Estudiante,Sobremesa,6,Avanzado,4.4,Estudios,No
+315,Samuel,Márquez Navarro,Ciudad Real,4.4,FICT-000315,51,Bachillerato,Hombre,Empleado/a,Portátil,20,Básico,4.4,Ocio,No
+316,Elena,López Delgado,Córdoba,3.5,FICT-000316,21,Universidad,Mujer,Estudiante,Sobremesa,4,Intermedio,5.1,Comunicación,Sí
+317,Miguel,Ruiz Romero,Cuenca,8.5,FICT-000317,26,Bachillerato,Hombre,Empleado/a,Sobremesa,10,Intermedio,9.2,Trabajo,No
+318,Ana,Ramírez Cortés,Girona,3.6,FICT-000318,62,FP Grado Medio,Hombre,Empleado/a,Portátil,24,Intermedio,5.1,Trabajo,No
+319,Alicia,López Muñoz,Granada,4.3,FICT-000319,44,Sin estudios,Mujer,Empleado/a,Portátil,27,Avanzado,5.2,Trabajo,Sí
+320,Raúl,Ramírez Muñoz,Guadalajara,7.2,FICT-000320,34,Máster/Doctorado,Hombre,Empleado/a,Portátil,17,Intermedio,7.0,Trabajo,Sí
+321,Andrés,Romero Lozano,Gipuzkoa,0.3,FICT-000321,61,ESO,Mujer,Autónomo/a,Portátil,18,Intermedio,0.9,Trabajo,Sí
+322,Rubén,Suárez Navarro,Huelva,6.3,FICT-000322,68,FP Grado Medio,Mujer,Autónomo/a,Sobremesa,28,Avanzado,5.9,Trabajo,No
+323,Bruno,Martínez Rubio,Huesca,2.4,FICT-000323,25,FP Grado Medio,No especificado,Empleado/a,Tableta,10,Básico,4.1,Ocio,Sí
+324,Aitana,Castillo Díaz,Illes Balears,1.8,FICT-000324,42,Máster/Doctorado,Mujer,Empleado/a,Portátil,18,Avanzado,2.7,Ocio,No
+325,Elena,Gutiérrez Gil,Jaén,4.0,FICT-000325,35,ESO,Hombre,Empleado/a,Sobremesa,17,Intermedio,4.2,Trabajo,No
+326,Inés,Lozano Castillo,La Rioja,2.9,FICT-000326,38,Universidad,Hombre,Empleado/a,Portátil,13,Intermedio,4.9,Ocio,No
+327,Lara,Serrano Hernández,Las Palmas,0.3,FICT-000327,33,Bachillerato,Hombre,Empleado/a,Portátil,12,Intermedio,0.8,Comunicación,No
+328,Diego,Ortiz Prieto,León,4.3,FICT-000328,73,Bachillerato,Hombre,Jubilado/a,Portátil,19,Intermedio,4.7,Trabajo,No
+329,Raúl,Domínguez Ramírez,Lleida,1.7,FICT-000329,65,Universidad,Mujer,Empleado/a,Portátil,15,Avanzado,2.1,Trabajo,Sí
+330,Javier,Ortega Suárez,Lugo,1.6,FICT-000330,17,FP Grado Medio,Mujer,Estudiante,Portátil,4,Básico,3.4,Comunicación,No
+331,Raúl,Romero Gil,Madrid,3.8,FICT-000331,21,Universidad,Mujer,Empleado/a,Tableta,3,Intermedio,4.9,Trabajo,Sí
+332,Álvaro,Prieto Sanz,Málaga,6.6,FICT-000332,17,Bachillerato,Hombre,Estudiante,Portátil,2,Intermedio,7.7,Estudios,No
+333,Daniel,Prieto Gallego,Murcia,4.6,FICT-000333,34,Bachillerato,Mujer,Empleado/a,Portátil,19,Básico,4.3,Trabajo,No
+334,Eva,Medina Muñoz,Navarra,5.2,FICT-000334,40,FP Grado Medio,Mujer,Empleado/a,Portátil,26,Intermedio,6.2,Trabajo,No
+335,Luis,Vidal Navarro,Ourense,0.7,FICT-000335,49,FP Grado Medio,Mujer,Empleado/a,Sobremesa,17,Intermedio,1.7,Trabajo,No
+336,Elena,Navarro Muñoz,Palencia,0.5,FICT-000336,58,FP Grado Medio,Hombre,Autónomo/a,Portátil,41,Intermedio,1.3,Ocio,No
+337,Gabriel,Prieto Gómez,Pontevedra,4.9,FICT-000337,68,ESO,Mujer,Jubilado/a,Portátil,14,Básico,5.3,Comunicación,Sí
+338,Valeria,Gil López,Salamanca,3.6,FICT-000338,62,Bachillerato,No especificado,Autónomo/a,Portátil,12,Básico,4.8,Trabajo,No
+339,Samuel,Suárez Núñez,Santa Cruz de Tenerife,7.8,FICT-000339,42,Máster/Doctorado,No especificado,Desempleado/a,Portátil,11,Avanzado,8.7,Ocio,No
+340,Nerea,Guerrero Morales,Segovia,8.6,FICT-000340,63,FP Grado Superior,Hombre,Empleado/a,Portátil,11,Avanzado,11.8,Trabajo,No
+341,Álvaro,Romero Ortiz,Sevilla,4.5,FICT-000341,24,ESO,No especificado,Estudiante,Sobremesa,9,Intermedio,4.8,Estudios,No
+342,Vega,Lozano Guerrero,Soria,0.3,FICT-000342,76,FP Grado Medio,No especificado,Jubilado/a,Tableta,17,Básico,1.7,Ocio,No
+343,Hugo,Hernández Santos,Tarragona,5.1,FICT-000343,63,FP Grado Superior,Hombre,Empleado/a,Sobremesa,18,Intermedio,4.9,Trabajo,No
+344,Valeria,Cruz Rodríguez,Teruel,5.7,FICT-000344,18,Universidad,No especificado,Empleado/a,Portátil,6,Básico,6.2,Trabajo,No
+345,Valeria,Rubio Gómez,Toledo,0.3,FICT-000345,45,FP Grado Medio,Hombre,Desempleado/a,Portátil,22,Básico,0.8,Ocio,Sí
+346,Marina,Navarro Ortega,Valencia,1.5,FICT-000346,21,Bachillerato,Hombre,Empleado/a,Portátil,3,Intermedio,3.1,Trabajo,Sí
+347,Candela,Fernández Calvo,Valladolid,3.6,FICT-000347,36,FP Grado Medio,Mujer,Empleado/a,Portátil,8,Avanzado,3.7,Trabajo,No
+348,Eva,Ortiz Castillo,Bizkaia,5.1,FICT-000348,74,ESO,Hombre,Jubilado/a,Portátil,40,Básico,4.4,Comunicación,No
+349,Marcos,Méndez Peña,Zamora,6.0,FICT-000349,42,Sin estudios,Mujer,Autónomo/a,Portátil,20,Intermedio,6.0,Estudios,No
+350,Miguel,Delgado Ramírez,Zaragoza,3.7,FICT-000350,73,Bachillerato,Hombre,Jubilado/a,Tableta,56,Básico,4.2,Trabajo,No
+351,Carmen,Torres Molina,A Coruña,5.8,FICT-000351,18,Universidad,Mujer,Estudiante,Sobremesa,2,Intermedio,5.9,Estudios,No
+352,Alejandro,González Calvo,Álava,8.0,FICT-000352,51,Universidad,Hombre,Empleado/a,Portátil,33,Intermedio,9.9,Trabajo,No
+353,Marina,González Gil,Albacete,6.6,FICT-000353,38,Universidad,Mujer,Estudiante,Portátil,22,Intermedio,5.9,Ocio,Sí
+354,Alicia,Núñez Ramírez,Alicante,3.1,FICT-000354,49,ESO,No especificado,Desempleado/a,Portátil,19,Avanzado,5.1,Comunicación,Sí
+355,Jorge,Núñez Márquez,Almería,1.2,FICT-000355,34,FP Grado Medio,Mujer,Empleado/a,Portátil,6,Avanzado,2.1,Comunicación,No
+356,Mateo,Ramos Hernández,Asturias,0.3,FICT-000356,32,FP Grado Superior,Hombre,Empleado/a,Portátil,18,Intermedio,0.9,Trabajo,Sí
+357,Óscar,Muñoz Moreno,Ávila,2.9,FICT-000357,33,FP Grado Superior,Mujer,Empleado/a,Portátil,14,Intermedio,4.4,Ocio,Sí
+358,Javier,Díaz Lozano,Badajoz,3.9,FICT-000358,55,ESO,No especificado,Empleado/a,Tableta,22,Intermedio,6.7,Trabajo,Sí
+359,Pablo,Castro Suárez,Barcelona,4.9,FICT-000359,73,Universidad,Hombre,Jubilado/a,Portátil,38,Intermedio,3.5,Comunicación,No
+360,Natalia,Cortés Vázquez,Burgos,4.8,FICT-000360,73,FP Grado Medio,Mujer,Empleado/a,Sobremesa,36,Intermedio,3.6,Trabajo,No
+361,Valeria,Gil Marín,Cáceres,2.0,FICT-000361,58,Universidad,Mujer,Empleado/a,Portátil,13,Intermedio,2.4,Trabajo,No
+362,Rocío,Molina Guerrero,Cádiz,1.4,FICT-000362,43,Universidad,No especificado,Empleado/a,Portátil,21,Intermedio,2.1,Trabajo,Sí
+363,Alba,Cortés Sánchez,Cantabria,5.3,FICT-000363,66,ESO,No especificado,Empleado/a,Sobremesa,44,Intermedio,7.5,Trabajo,No
+364,Noa,Moreno Alonso,Castellón,4.0,FICT-000364,73,Universidad,Mujer,Jubilado/a,Portátil,54,Intermedio,4.9,Ocio,No
+365,Rubén,Gil Morales,Ciudad Real,2.5,FICT-000365,33,Bachillerato,Mujer,Empleado/a,Sobremesa,16,Intermedio,2.1,Trabajo,No
+366,Rubén,Díaz Cano,Córdoba,5.0,FICT-000366,59,Primaria,No especificado,Empleado/a,Portátil,36,Intermedio,7.0,Ocio,Sí
+367,Nicolás,Moreno Garrido,Cuenca,5.9,FICT-000367,53,Primaria,Hombre,Estudiante,Tableta,23,Básico,5.0,Ocio,Sí
+368,Álvaro,Romero Garrido,Girona,2.1,FICT-000368,48,Universidad,Hombre,Empleado/a,Sobremesa,27,Básico,1.9,Ocio,Sí
+369,Jorge,Cruz Sánchez,Granada,4.5,FICT-000369,78,ESO,Hombre,Empleado/a,Tableta,28,Intermedio,6.3,Trabajo,No
+370,Lucía,Vázquez Cano,Guadalajara,2.3,FICT-000370,40,Bachillerato,Mujer,Desempleado/a,Portátil,22,Intermedio,2.1,Comunicación,No
+371,Álvaro,Márquez Gómez,Gipuzkoa,3.4,FICT-000371,54,ESO,No especificado,Empleado/a,Portátil,20,Intermedio,3.0,Trabajo,No
+372,Marta,Gallego García,Huelva,6.4,FICT-000372,51,ESO,Mujer,Empleado/a,Tableta,11,Intermedio,5.8,Ocio,Sí
+373,Vega,Pérez Sanz,Huesca,7.8,FICT-000373,31,ESO,Hombre,Autónomo/a,Sobremesa,11,Básico,10.8,Estudios,Sí
+374,Martina,Alonso Muñoz,Illes Balears,3.2,FICT-000374,60,FP Grado Medio,No especificado,Empleado/a,Portátil,37,Básico,3.9,Ocio,Sí
+375,Martina,Hernández Suárez,Jaén,2.8,FICT-000375,76,FP Grado Superior,Hombre,Jubilado/a,Portátil,49,Intermedio,3.3,Ocio,No
+376,Emma,Vidal Díaz,La Rioja,2.5,FICT-000376,69,ESO,Hombre,Jubilado/a,Sobremesa,17,Básico,3.0,Ocio,Sí
+377,Paula,Navarro Ortega,Las Palmas,7.1,FICT-000377,20,FP Grado Medio,No especificado,Empleado/a,Tableta,6,Intermedio,6.0,Trabajo,No
+378,David,Márquez Sanz,León,2.4,FICT-000378,23,FP Grado Superior,Mujer,Empleado/a,Portátil,3,Básico,3.9,Trabajo,No
+379,Mateo,Suárez Prieto,Lleida,6.2,FICT-000379,26,Primaria,Mujer,Empleado/a,Portátil,9,Intermedio,7.5,Trabajo,No
+380,Andrés,Serrano González,Lugo,2.2,FICT-000380,58,Bachillerato,Hombre,Empleado/a,Portátil,30,Intermedio,3.7,Ocio,No
+381,Martina,Gil Sánchez,Madrid,7.1,FICT-000381,70,FP Grado Superior,Hombre,Jubilado/a,Portátil,48,Intermedio,9.3,Ocio,No
+382,Nerea,Cruz Navarro,Málaga,8.7,FICT-000382,52,FP Grado Superior,Hombre,Empleado/a,Sobremesa,15,Intermedio,7.1,Estudios,Sí
+383,Alba,Álvarez Garrido,Murcia,5.6,FICT-000383,47,ESO,Mujer,Empleado/a,Portátil,11,Básico,4.5,Trabajo,Sí
+384,Ismael,Márquez Iglesias,Navarra,1.3,FICT-000384,61,Universidad,No especificado,Autónomo/a,Portátil,24,Intermedio,2.0,Estudios,Sí
+385,Alejandro,Rodríguez Vázquez,Ourense,9.4,FICT-000385,55,Primaria,Mujer,Empleado/a,Portátil,13,Intermedio,10.6,Trabajo,No
+386,Diego,Ortega Martín,Palencia,4.0,FICT-000386,49,FP Grado Superior,Hombre,Autónomo/a,Portátil,31,Básico,3.0,Trabajo,Sí
+387,Marina,León Molina,Pontevedra,6.8,FICT-000387,75,ESO,Mujer,Jubilado/a,Sobremesa,36,Avanzado,8.3,Ocio,No
+388,Rocío,Méndez Marín,Salamanca,5.6,FICT-000388,27,Bachillerato,Hombre,Empleado/a,Portátil,3,Intermedio,4.1,Ocio,No
+389,Nicolás,Castro Muñoz,Santa Cruz de Tenerife,2.4,FICT-000389,72,Bachillerato,Mujer,Jubilado/a,Portátil,50,Intermedio,3.6,Comunicación,No
+390,Joel,Castillo Iglesias,Segovia,2.5,FICT-000390,30,Bachillerato,No especificado,Empleado/a,Portátil,14,Intermedio,4.2,Trabajo,Sí
+391,Marta,Castillo Rodríguez,Sevilla,4.7,FICT-000391,24,Bachillerato,No especificado,Empleado/a,Portátil,7,Intermedio,4.2,Trabajo,Sí
+392,Alicia,Gallego Ortiz,Soria,0.4,FICT-000392,35,Universidad,No especificado,Empleado/a,Sobremesa,10,Intermedio,2.1,Trabajo,No
+393,David,Iglesias Rubio,Tarragona,4.6,FICT-000393,34,Primaria,Mujer,Autónomo/a,Portátil,20,Básico,6.3,Trabajo,Sí
+394,Sara,Muñoz Díaz,Teruel,1.4,FICT-000394,29,FP Grado Superior,Hombre,Empleado/a,Sobremesa,5,Intermedio,2.4,Trabajo,No
+395,Hugo,López Vidal,Toledo,2.4,FICT-000395,63,ESO,Mujer,Empleado/a,Portátil,33,Avanzado,1.9,Trabajo,No
+396,Rocío,Domínguez Álvarez,Valencia,5.7,FICT-000396,41,FP Grado Superior,Hombre,Desempleado/a,Portátil,12,Avanzado,6.8,Comunicación,Sí
+397,Jimena,Cortés Santos,Valladolid,3.4,FICT-000397,77,Primaria,Hombre,Jubilado/a,Portátil,27,Avanzado,2.9,Ocio,Sí
+398,Gabriel,Castro Molina,Bizkaia,1.5,FICT-000398,33,Universidad,No especificado,Empleado/a,Sobremesa,9,Avanzado,2.3,Estudios,No
+399,Mario,Muñoz Torres,Zamora,6.3,FICT-000399,59,FP Grado Superior,No especificado,Empleado/a,Sobremesa,20,Intermedio,4.3,Trabajo,Sí
+400,Noa,Márquez Alonso,Zaragoza,5.4,FICT-000400,48,FP Grado Superior,No especificado,Empleado/a,Portátil,9,Avanzado,7.5,Trabajo,Sí
+401,Paula,Molina Medina,A Coruña,2.1,FICT-000401,19,Universidad,No especificado,Empleado/a,Portátil,4,Intermedio,4.0,Comunicación,Sí
+402,Joel,Hernández León,Álava,2.1,FICT-000402,33,Bachillerato,Mujer,Desempleado/a,Sobremesa,14,Intermedio,2.8,Ocio,No
+403,Aitana,León Ortiz,Albacete,5.0,FICT-000403,77,ESO,Mujer,Empleado/a,Portátil,46,Intermedio,4.5,Trabajo,No
+404,Lara,Domínguez Iglesias,Alicante,4.1,FICT-000404,71,FP Grado Superior,Mujer,Jubilado/a,Portátil,28,Avanzado,3.6,Comunicación,No
+405,Emma,Serrano Peña,Almería,1.4,FICT-000405,21,FP Grado Superior,Hombre,Empleado/a,Portátil,6,Intermedio,1.9,Comunicación,Sí
+406,Sara,Lozano Moreno,Asturias,5.7,FICT-000406,43,Primaria,Hombre,Empleado/a,Portátil,27,Intermedio,3.4,Trabajo,No
+407,Raúl,Marín Morales,Ávila,4.1,FICT-000407,51,Universidad,Mujer,Autónomo/a,Portátil,21,Básico,4.6,Trabajo,No
+408,Hugo,Díaz García,Badajoz,0.3,FICT-000408,69,Universidad,No especificado,Jubilado/a,Portátil,24,Intermedio,0.6,Ocio,No
+409,Luis,Gómez Torres,Barcelona,7.3,FICT-000409,59,Universidad,Mujer,Desempleado/a,Portátil,18,Avanzado,6.0,Comunicación,No
+410,Álvaro,Márquez Núñez,Burgos,5.1,FICT-000410,71,Máster/Doctorado,Hombre,Jubilado/a,Sobremesa,42,Avanzado,5.3,Ocio,No
+411,Alejandro,Méndez Castillo,Cáceres,6.2,FICT-000411,47,ESO,Hombre,Estudiante,Portátil,24,Avanzado,6.8,Estudios,Sí
+412,Carmen,Suárez Peña,Cádiz,2.8,FICT-000412,22,FP Grado Superior,No especificado,Empleado/a,Portátil,7,Básico,2.8,Trabajo,No
+413,Natalia,Navarro Vidal,Cantabria,3.4,FICT-000413,72,ESO,No especificado,Jubilado/a,Portátil,23,Avanzado,5.4,Comunicación,No
+414,Paula,Jiménez Ruiz,Castellón,2.8,FICT-000414,52,Universidad,No especificado,Empleado/a,Portátil,15,Básico,3.4,Comunicación,No
+415,Emma,Molina Castillo,Ciudad Real,3.2,FICT-000415,24,Bachillerato,Mujer,Autónomo/a,Portátil,4,Intermedio,2.6,Ocio,Sí
+416,Andrés,Ramírez Alonso,Córdoba,7.8,FICT-000416,21,ESO,Hombre,Empleado/a,Portátil,2,Intermedio,8.9,Trabajo,No
+417,Natalia,Sánchez Romero,Cuenca,2.5,FICT-000417,28,Primaria,No especificado,Autónomo/a,Portátil,14,Intermedio,2.9,Trabajo,No
+418,Jimena,Peña Blanco,Girona,3.0,FICT-000418,67,Primaria,Hombre,Jubilado/a,Sobremesa,40,Intermedio,3.4,Comunicación,No
+419,Carla,Gómez López,Granada,1.6,FICT-000419,41,Bachillerato,No especificado,Empleado/a,Portátil,20,Intermedio,2.5,Estudios,Sí
+420,Hugo,Fernández Martín,Guadalajara,2.9,FICT-000420,25,FP Grado Medio,Hombre,Desempleado/a,Portátil,5,Básico,2.5,Comunicación,Sí
+421,Andrés,López Cortés,Gipuzkoa,2.4,FICT-000421,54,Bachillerato,Mujer,Empleado/a,Sobremesa,21,Básico,3.1,Ocio,No
+422,Joel,Suárez Torres,Huelva,3.4,FICT-000422,52,ESO,Hombre,Empleado/a,Portátil,35,Intermedio,5.7,Trabajo,No
+423,Eric,Serrano Gutiérrez,Huesca,4.3,FICT-000423,31,ESO,Mujer,Empleado/a,Portátil,12,Básico,6.3,Ocio,No
+424,Hugo,Sanz Delgado,Illes Balears,3.9,FICT-000424,25,FP Grado Medio,Hombre,Empleado/a,Portátil,10,Básico,3.8,Trabajo,No
+425,Lara,Ortega Pérez,Jaén,7.9,FICT-000425,62,Universidad,Hombre,Empleado/a,Portátil,34,Avanzado,5.8,Trabajo,No
+426,Marcos,Marín Castillo,La Rioja,6.0,FICT-000426,26,Universidad,No especificado,Empleado/a,Portátil,8,Intermedio,6.8,Trabajo,Sí
+427,Laura,Molina Cruz,Las Palmas,5.8,FICT-000427,31,FP Grado Medio,Hombre,Empleado/a,Portátil,12,Intermedio,4.6,Trabajo,Sí
+428,Noa,García Díaz,León,1.8,FICT-000428,26,Universidad,Hombre,Empleado/a,Sobremesa,4,Intermedio,1.1,Trabajo,No
+429,Candela,Peña Ortiz,Lleida,5.6,FICT-000429,66,Primaria,Hombre,Estudiante,Sobremesa,30,Intermedio,5.8,Ocio,No
+430,Nicolás,Ruiz Serrano,Lugo,3.7,FICT-000430,40,Primaria,Hombre,Empleado/a,Portátil,22,Básico,5.2,Trabajo,Sí
+431,Elena,Núñez Herrera,Madrid,6.3,FICT-000431,39,Bachillerato,No especificado,Autónomo/a,Portátil,13,Intermedio,5.8,Estudios,No
+432,Hugo,Domínguez López,Málaga,3.7,FICT-000432,51,Universidad,Mujer,Empleado/a,Portátil,32,Intermedio,5.8,Ocio,Sí
+433,Óscar,Martínez Guerrero,Murcia,5.2,FICT-000433,34,Primaria,Mujer,Autónomo/a,Sobremesa,18,Avanzado,6.6,Trabajo,Sí
+434,Marina,Domínguez Gallego,Navarra,1.1,FICT-000434,50,FP Grado Medio,No especificado,Empleado/a,Sobremesa,25,Básico,2.7,Ocio,Sí
+435,Marina,Gallego Ramírez,Ourense,5.4,FICT-000435,35,FP Grado Superior,Hombre,Empleado/a,Sobremesa,19,Intermedio,5.3,Estudios,No
+436,Pablo,Castro Castillo,Palencia,2.3,FICT-000436,62,ESO,Hombre,Empleado/a,Portátil,12,Básico,2.6,Trabajo,No
+437,Vega,Garrido Ramos,Pontevedra,3.5,FICT-000437,49,Universidad,Hombre,Empleado/a,Portátil,31,Básico,5.2,Trabajo,No
+438,Lucía,Guerrero Calvo,Salamanca,3.5,FICT-000438,16,ESO,Mujer,Estudiante,Sobremesa,3,Intermedio,3.1,Estudios,No
+439,Paula,Martínez Sánchez,Santa Cruz de Tenerife,3.5,FICT-000439,25,Primaria,Mujer,Desempleado/a,Portátil,9,Intermedio,4.8,Ocio,No
+440,Elena,Díaz Hernández,Segovia,5.9,FICT-000440,28,ESO,Mujer,Empleado/a,Sobremesa,8,Avanzado,4.7,Ocio,No
+441,Rubén,Cruz Méndez,Sevilla,4.7,FICT-000441,70,Primaria,No especificado,Jubilado/a,Portátil,17,Avanzado,6.2,Ocio,No
+442,David,Marín Suárez,Soria,0.3,FICT-000442,66,ESO,Mujer,Empleado/a,Portátil,33,Básico,1.8,Comunicación,Sí
+443,Natalia,Jiménez Ramírez,Tarragona,8.3,FICT-000443,38,Universidad,No especificado,Autónomo/a,Portátil,11,Intermedio,10.5,Trabajo,No
+444,Alicia,Sánchez Ramos,Teruel,1.5,FICT-000444,59,ESO,No especificado,Empleado/a,Portátil,18,Intermedio,3.3,Trabajo,Sí
+445,Emma,Domínguez Prieto,Toledo,3.4,FICT-000445,39,Universidad,No especificado,Autónomo/a,Portátil,13,Intermedio,3.6,Comunicación,No
+446,Daniel,Martínez Ortiz,Valencia,4.3,FICT-000446,77,FP Grado Superior,Mujer,Empleado/a,Tableta,25,Básico,5.7,Trabajo,Sí
+447,Ana,Martín Castillo,Valladolid,6.1,FICT-000447,58,FP Grado Superior,No especificado,Empleado/a,Portátil,23,Avanzado,4.7,Trabajo,No
+448,Óscar,Martínez Rodríguez,Bizkaia,4.8,FICT-000448,77,FP Grado Medio,Hombre,Jubilado/a,Sobremesa,46,Avanzado,4.0,Ocio,No
+449,Javier,Garrido Navarro,Zamora,0.3,FICT-000449,63,FP Grado Superior,Hombre,Autónomo/a,Portátil,34,Intermedio,1.9,Trabajo,Sí
+450,Eric,Domínguez Hernández,Zaragoza,5.5,FICT-000450,43,Bachillerato,Hombre,Empleado/a,Portátil,18,Avanzado,5.8,Ocio,No
+451,Emma,Calvo Muñoz,A Coruña,2.4,FICT-000451,60,ESO,No especificado,Autónomo/a,Portátil,11,Intermedio,3.0,Trabajo,Sí
+452,Pablo,Sanz Méndez,Álava,5.2,FICT-000452,35,Sin estudios,Mujer,Desempleado/a,Portátil,16,Avanzado,3.9,Comunicación,No
+453,Claudia,Cortés Castro,Albacete,3.7,FICT-000453,68,Bachillerato,No especificado,Jubilado/a,Sobremesa,23,Intermedio,5.7,Ocio,Sí
+454,Alba,Calvo Ramírez,Alicante,5.2,FICT-000454,30,Primaria,Mujer,Empleado/a,Sobremesa,5,Intermedio,3.7,Ocio,No
+455,Joel,Rubio Muñoz,Almería,4.6,FICT-000455,61,FP Grado Superior,No especificado,Empleado/a,Sobremesa,15,Intermedio,6.5,Trabajo,No
+456,Miguel,Santos Pérez,Asturias,6.3,FICT-000456,56,Universidad,Mujer,Empleado/a,Portátil,29,Avanzado,6.5,Ocio,No
+457,Joel,Vázquez López,Ávila,5.1,FICT-000457,55,Bachillerato,No especificado,Empleado/a,Sobremesa,30,Intermedio,7.0,Trabajo,No
+458,Alejandro,Peña Lozano,Badajoz,4.2,FICT-000458,50,Máster/Doctorado,Hombre,Empleado/a,Sobremesa,16,Básico,6.8,Ocio,No
+459,Marta,Vidal Prieto,Barcelona,5.3,FICT-000459,41,Bachillerato,No especificado,Empleado/a,Tableta,25,Avanzado,5.2,Estudios,No
+460,Carmen,Cano Suárez,Burgos,7.5,FICT-000460,44,Universidad,No especificado,Empleado/a,Portátil,22,Avanzado,10.0,Ocio,Sí
+461,Elena,Núñez Rubio,Cáceres,5.2,FICT-000461,30,FP Grado Superior,Hombre,Autónomo/a,Sobremesa,4,Básico,8.2,Trabajo,No
+462,Hugo,Vázquez Pérez,Cádiz,2.3,FICT-000462,52,FP Grado Medio,No especificado,Estudiante,Sobremesa,33,Básico,3.9,Ocio,Sí
+463,Ana,Muñoz Jiménez,Cantabria,1.9,FICT-000463,50,FP Grado Superior,No especificado,Empleado/a,Sobremesa,9,Intermedio,3.8,Ocio,Sí
+464,Alicia,González Márquez,Castellón,3.2,FICT-000464,50,Primaria,Mujer,Empleado/a,Portátil,19,Intermedio,4.0,Comunicación,Sí
+465,Alicia,Medina Castro,Ciudad Real,5.1,FICT-000465,66,Bachillerato,Hombre,Empleado/a,Sobremesa,18,Intermedio,4.4,Ocio,Sí
+466,Alba,Gil Castro,Córdoba,3.7,FICT-000466,66,FP Grado Superior,No especificado,Desempleado/a,Portátil,32,Intermedio,4.8,Ocio,No
+467,Bruno,Martínez López,Cuenca,1.0,FICT-000467,39,Primaria,Hombre,Empleado/a,Portátil,14,Intermedio,2.0,Trabajo,No
+468,Ismael,Ortiz Ramírez,Girona,5.5,FICT-000468,37,FP Grado Medio,Hombre,Autónomo/a,Portátil,5,Intermedio,7.7,Estudios,No
+469,Samuel,Gómez Ortiz,Granada,6.4,FICT-000469,73,Sin estudios,Mujer,Jubilado/a,Portátil,28,Intermedio,8.7,Ocio,Sí
+470,Laura,León González,Guadalajara,7.1,FICT-000470,35,ESO,Hombre,Autónomo/a,Portátil,11,Básico,8.0,Ocio,No
+471,Claudia,Rodríguez Méndez,Gipuzkoa,4.2,FICT-000471,31,Bachillerato,Hombre,Autónomo/a,Sobremesa,18,Básico,6.0,Trabajo,Sí
+472,Eric,Herrera Vázquez,Huelva,7.7,FICT-000472,68,Universidad,Mujer,Jubilado/a,Sobremesa,24,Intermedio,7.7,Ocio,No
+473,Laura,Torres González,Huesca,4.6,FICT-000473,24,ESO,Hombre,Empleado/a,Portátil,7,Básico,6.6,Ocio,Sí
+474,Mateo,Santos González,Illes Balears,0.3,FICT-000474,62,Máster/Doctorado,Hombre,Empleado/a,Sobremesa,39,Básico,0.4,Ocio,Sí
+475,Noa,Molina Calvo,Jaén,5.8,FICT-000475,23,Bachillerato,Hombre,Estudiante,Portátil,5,Intermedio,7.0,Ocio,Sí
+476,Lara,Martín Delgado,La Rioja,3.4,FICT-000476,78,FP Grado Medio,No especificado,Empleado/a,Portátil,58,Intermedio,3.0,Trabajo,No
+477,Pablo,Vázquez Delgado,Las Palmas,0.9,FICT-000477,71,Universidad,Mujer,Jubilado/a,Sobremesa,52,Intermedio,2.2,Comunicación,No
+478,Lucas,Morales Méndez,León,4.2,FICT-000478,66,FP Grado Medio,Mujer,Estudiante,Portátil,24,Básico,3.4,Comunicación,No
+479,Iván,Martínez Iglesias,Lleida,4.9,FICT-000479,73,Bachillerato,No especificado,Jubilado/a,Portátil,57,Básico,4.8,Comunicación,Sí
+480,Gabriel,Herrera Domínguez,Lugo,4.3,FICT-000480,76,FP Grado Superior,No especificado,Jubilado/a,Sobremesa,41,Intermedio,4.4,Comunicación,No
+481,Paula,Ramírez Vidal,Madrid,4.7,FICT-000481,17,ESO,No especificado,Estudiante,Sobremesa,4,Básico,4.0,Ocio,Sí
+482,Martina,Castillo Herrera,Málaga,6.1,FICT-000482,23,Bachillerato,No especificado,Empleado/a,Portátil,10,Básico,7.2,Estudios,No
+483,Víctor,Pérez Cruz,Murcia,2.7,FICT-000483,45,Universidad,Hombre,Autónomo/a,Portátil,19,Avanzado,2.4,Trabajo,No
+484,Martina,Pérez Santos,Navarra,2.8,FICT-000484,28,FP Grado Superior,Hombre,Empleado/a,Portátil,4,Intermedio,3.0,Trabajo,Sí
+485,Bruno,Navarro Gil,Ourense,4.4,FICT-000485,71,FP Grado Superior,Hombre,Jubilado/a,Portátil,33,Intermedio,5.9,Ocio,Sí
+486,Jorge,Ramírez Ruiz,Palencia,3.2,FICT-000486,59,Primaria,Mujer,Empleado/a,Portátil,20,Básico,4.4,Ocio,No
+487,Inés,Alonso Martínez,Pontevedra,4.0,FICT-000487,56,Bachillerato,Hombre,Desempleado/a,Portátil,30,Intermedio,5.2,Ocio,Sí
+488,Lucía,González Moreno,Salamanca,3.5,FICT-000488,35,Universidad,Mujer,Desempleado/a,Portátil,21,Avanzado,2.2,Ocio,Sí
+489,Alicia,Molina Castro,Santa Cruz de Tenerife,3.7,FICT-000489,38,Máster/Doctorado,Hombre,Autónomo/a,Portátil,23,Básico,4.0,Trabajo,No
+490,Carmen,Márquez Herrera,Segovia,2.4,FICT-000490,34,Universidad,Mujer,Desempleado/a,Sobremesa,5,Intermedio,3.4,Comunicación,Sí
+491,Lucas,Martín Rubio,Sevilla,5.1,FICT-000491,63,Universidad,Hombre,Empleado/a,Portátil,15,Intermedio,4.4,Trabajo,No
+492,Gabriel,Suárez Martínez,Soria,3.7,FICT-000492,70,ESO,No especificado,Jubilado/a,Portátil,52,Intermedio,4.6,Estudios,No
+493,Laura,Sánchez Castro,Tarragona,0.3,FICT-000493,58,Universidad,Hombre,Empleado/a,Portátil,10,Básico,0.9,Trabajo,Sí
+494,Carmen,García Álvarez,Teruel,7.6,FICT-000494,63,Universidad,No especificado,Empleado/a,Portátil,24,Intermedio,7.5,Trabajo,No
+495,Javier,Suárez López,Toledo,2.6,FICT-000495,57,ESO,Mujer,Empleado/a,Portátil,19,Intermedio,3.5,Ocio,Sí
+496,Iván,Martín Navarro,Valencia,5.2,FICT-000496,39,Universidad,Hombre,Autónomo/a,Portátil,23,Avanzado,5.6,Trabajo,No
+497,Alicia,Garrido Calvo,Valladolid,3.5,FICT-000497,63,Bachillerato,No especificado,Estudiante,Sobremesa,31,Básico,4.5,Trabajo,No
+498,Jorge,Moreno Alonso,Bizkaia,3.9,FICT-000498,26,FP Grado Medio,No especificado,Desempleado/a,Portátil,11,Básico,3.8,Trabajo,No
+499,Noa,Marín López,Zamora,4.5,FICT-000499,57,Primaria,Hombre,Empleado/a,Sobremesa,16,Intermedio,5.6,Trabajo,No
+500,Claudia,Castro Delgado,Zaragoza,5.6,FICT-000500,35,FP Grado Superior,Mujer,Empleado/a,Portátil,14,Avanzado,6.9,Ocio,No
