@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* Hace que el body ocupe todo el alto de la pantalla */
+    min-height: 100vh; 
+}
+
+.contenedor {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    /* Define cómo se distribuyen las filas en vertical */
+    grid-template-rows: auto auto 1fr auto; 
+    
+    /* Obliga al contenedor a estirarse a toda la pantalla */
+    min-height: 100vh; 
+    
+    border: 3px solid black; /* Recuerda añadir siempre el color al final */
+}
+
+header, nav, footer {
+    grid-column: 1 / -1; /* El -1 hace que llegue automáticamente hasta el final */
+    border: 3px solid black;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5em 1em;
+    color: white;
+    border: 3px solid black;
+}
+
+aside {
+    grid-column: 2;
+    /* Ajustado para que encaje de forma flexible con las filas del contenedor */
+    grid-row: 3; 
+    border: 3px solid black;
+}
+
+footer {
+    text-align: center;
+    border: 3px solid black;
+}
